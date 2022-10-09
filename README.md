@@ -1,2 +1,2 @@
 Educa happy kids 
-Codigo informativo sobre primera infancia,servicios y tienda para educación infantil.
+Codigo de educación infantil, informativa y de literatura infantil.
